@@ -39,5 +39,17 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "shortcuts": [
+    {
+      "name": "Водичка",
+      "short_name": "Водичка",
+      "url": "#/water/"
+    },
+    {
+      "name": "Настроение",
+      "short_name": "Настроение",
+      "url": "#/mood/"
+    }
   ]
 }
