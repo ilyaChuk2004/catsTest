@@ -3,7 +3,7 @@
   "short_name": "ToYou",
   "description": "cats",
   "lang": "ru-RU",
-  "start_url": "./",
+  "start_url": "/catsTest/",
   "scope":"/catsTest/",
   "display": "standalone",
   "background_color": "#5acca8",
