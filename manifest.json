@@ -4,7 +4,7 @@
   "description": "cats",
   "lang": "ru-RU",
   "start_url": "./",
-  "scope":".",
+  "scope":"/catsTest/",
   "display": "standalone",
   "background_color": "#5acca8",
   "theme_color": "#5acca8",
