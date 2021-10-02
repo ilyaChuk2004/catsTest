@@ -6,7 +6,7 @@
   "start_url": "/catsTest/", 
   "scope": "/catsTest/",
   "display": "standalone",
-  "background_color": "#5acca8",
+  "background_color": "#fff",
   "theme_color": "#5acca8",
   "icons": [
     {
