@@ -38,6 +38,18 @@
       "src": "static/icons/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "static/icons/maskable_icon_x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "static/icons/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "shortcuts": [
