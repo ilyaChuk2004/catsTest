@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "display:none;">
+	<!ENTITY st1 "display:inline;">
+	<!ENTITY st2 "fill:#FFFFFF;">
+	<!ENTITY st3 "fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:7,5;">
+]>
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
+<g style="&st0;">
+	<rect x="0.5" y="0.5" style="&st1;" width="55" height="55"/>
+	<path style="&st1;" d="M55,1v54H1V1H55 M56,0H0v56h56V0L56,0z"/>
+</g>
+<path style="&st2;" d="M28,44.3c0.9,0,1.7-0.8,1.7-1.7V29.7h12.5c0.9,0,1.7-0.8,1.7-1.7c0-0.9-0.8-1.7-1.7-1.7H29.7V13.4
+	c0-0.9-0.8-1.7-1.7-1.7c-0.9,0-1.7,0.8-1.7,1.7v12.9H13.8c-0.9,0-1.7,0.8-1.7,1.7c0,0.9,0.8,1.7,1.7,1.7h12.5v12.9
+	C26.3,43.5,27,44.3,28,44.3z"/>
+<circle style="&st3;" cx="28" cy="28" r="25.3"/>
+</svg>
