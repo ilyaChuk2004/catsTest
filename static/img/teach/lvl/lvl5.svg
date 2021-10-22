@@ -1,0 +1,144 @@
+<svg id="a47d9a73-4b1e-42ef-91c9-da4ebb2ff724" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 410">
+  <defs>
+    <style>
+      .be6e0935-dec6-4e67-a5c5-33db81656eb6 {
+        fill: var(--f7-block-strong-bg-color);
+
+      }
+
+      .b6a57e0f-5d9f-4bca-9d51-07bafce1da65 {
+        fill: var(--cupBg);
+        filter: drop-shadow(0px 2px 7px rgba(0,0,0,0.10196));
+      }
+
+      .svgiocurcup{
+        filter: drop-shadow(0px 0px 6px rgba(var(--f7-theme-color-rgb),0.2));
+    transform: scale(1.1) translate(-17px, -13px);
+      }
+
+      .a3f4fc6a-1661-4a12-9534-26efdc35f35d, .e5ba5077-1f5e-493a-895c-fe082c4cba9e {
+        opacity: 0.72;
+      }
+
+      .e5ba5077-1f5e-493a-895c-fe082c4cba9e, .a3f4fc6a-1661-4a12-9534-26efdc35f35d {
+        font-size: 11.42px;
+        fill:var(--f7-block-strong-text-color);
+      }
+
+      .a83e6861-b57e-4d7d-b372-2bc66de10556 {
+        fill: #fff;
+      }
+      .a83e6861-b57e-4d7d-b372-2bc66de10556{
+        filter: drop-shadow(0px 4px 6px #00000041);
+      }
+
+      .a3f4fc6a-1661-4a12-9534-26efdc35f35d, .b8d820b8-d101-4a21-ac1d-c5e3bcd12465, .b8fb1819-ce64-44f9-863c-a2191ad3bd69, .e5ba5077-1f5e-493a-895c-fe082c4cba9e {
+        font-family: Inter;
+      }
+
+      .a3f4fc6a-1661-4a12-9534-26efdc35f35d {
+        font-size: 12.5px;
+      }
+
+      .a22b1c43-cdbc-4ece-a726-fddb2f6ad512, .afe3bd93-4088-441b-ad3c-b011db56c393, .bf7d8a86-7a1e-49ec-a708-215561e48d85 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .bf7d8a86-7a1e-49ec-a708-215561e48d85 {
+        stroke: var(--f7-range-bar-bg-color);
+      }
+
+      .b8d820b8-d101-4a21-ac1d-c5e3bcd12465{
+        fill:var(--f7-range-scale-text-color, var(--f7-range-bar-bg-color));
+      }
+
+      .afe3bd93-4088-441b-ad3c-b011db56c393 {
+        stroke: var(--f7-range-bar-active-bg-color, var(--f7-theme-color));
+      }
+
+      .a22b1c43-cdbc-4ece-a726-fddb2f6ad512 {
+        stroke: var(--f7-range-bar-bg-color);
+      }
+
+      .b8d820b8-d101-4a21-ac1d-c5e3bcd12465 {
+        font-size: 14.19px;
+      }
+
+      .b8fb1819-ce64-44f9-863c-a2191ad3bd69 {
+        font-size: 22px;
+        fill: var(--f7-block-strong-text-color);
+      }
+
+      .a09b029f-12b7-4d9e-9e81-937bc0f4c1c1 {
+        letter-spacing: 0em;
+      }
+
+      .f3894aa8-370b-430d-8ebc-e60f3ac5bb20 {
+        letter-spacing: -0.02em;
+      }
+
+      .f523ae4b-d7c5-4b61-9674-9efd1ead2e82 {
+        letter-spacing: 0.01em;
+      }
+
+      .ba678777-19ed-45bc-a252-ad264f502b45 {
+        letter-spacing: 0.01em;
+      }
+
+      .a885fc8e-92f5-45d3-b855-f0fca0b123fe {
+        letter-spacing: -0.01em;
+      }
+
+      .f1263f7d-044b-4d2f-bba5-fa515ef1e554 {
+        letter-spacing: 0.01em;
+      }
+
+      .a568d788-069e-4e36-bf75-bbbfb275a1b0 {
+        letter-spacing: 0em;
+      }
+
+      .b7c35874-ff4d-443e-9ba2-058ad0a8f0ae {
+        letter-spacing: 0.02em;
+      }
+
+      .f0f79a51-d7b0-44ef-8ee1-f8226051655c {
+        letter-spacing: -0.01em;
+      }
+    </style>
+    <image id="a44182b3-372a-491a-b035-395de8c8e7ab" width="450" height="691" xlink:href="static/img/cups/cup50.png"/>
+    <image id="2a44182b3-372a-491a-b035-395de8c8e7ab" width="450" height="691" xlink:href="static/img/cups/cup100.png"/>
+    <image id="3a44182b3-372a-491a-b035-395de8c8e7ab" width="450" height="691" xlink:href="static/img/cups/cup200.png"/>
+  </defs>
+  <path class="be6e0935-dec6-4e67-a5c5-33db81656eb6" d="M0,0H400a0,0,0,0,1,0,0V205.27A25.73,25.73,0,0,1,374.27,231H25.73A25.73,25.73,0,0,1,0,205.27V0A0,0,0,0,1,0,0Z"/>
+  <path class="be6e0935-dec6-4e67-a5c5-33db81656eb6" d="M0,283H400a0,0,0,0,1,0,0V409.27A25.73,25.73,0,0,1,374.27,435H25.73A25.73,25.73,0,0,1,0,409.27V283a0,0,0,0,1,0,0Z" transform="translate(400 718) rotate(180)"/>
+  <g>
+    <path class="b6a57e0f-5d9f-4bca-9d51-07bafce1da65" d="M84.84,194.79q-10.86.42-21.74,0c-16.15-.73-31.85-16.76-33-33.07a302.78,302.78,0,0,1,0-35.39C31.25,110,47,94,63.1,93.26q10.87-.41,21.74,0C101,94,116.69,110,117.89,126.33a307.23,307.23,0,0,1,0,35.39C116.69,178,101,194.06,84.84,194.79Z"/>
+    <use transform="translate(57.96 115.15) scale(0.07)" xlink:href="#a44182b3-372a-491a-b035-395de8c8e7ab"/>
+    <text class="e5ba5077-1f5e-493a-895c-fe082c4cba9e" transform="translate(63.9 182.29)">100</text>
+  </g>
+  <g>
+    <path class="b6a57e0f-5d9f-4bca-9d51-07bafce1da65 svgiocurcup" d="M213.71,199.48q-14.73.69-29.48,0c-16.17-.88-31.84-16.87-33.16-33.23a336.39,336.39,0,0,1,0-44.45c1.32-16.36,17-32.35,33.16-33.23q14.73-.69,29.48,0c16.18.88,31.84,16.87,33.16,33.23a333,333,0,0,1,0,44.45C245.55,182.61,229.89,198.6,213.71,199.48Z"/>
+    <use transform="translate(167.44, 96.62) scale(0.125)" xlink:href="#2a44182b3-372a-491a-b035-395de8c8e7ab"/>
+    <text class="a3f4fc6a-1661-4a12-9534-26efdc35f35d" transform="translate(187.94 185.92)">235</text>
+  </g>
+  <g>
+    <path class="b6a57e0f-5d9f-4bca-9d51-07bafce1da65" d="M334.84,194.79q-10.86.42-21.74,0c-16.15-.73-31.85-16.76-33-33.07a302.78,302.78,0,0,1,0-35.39C281.25,110,297,94,313.1,93.26q10.88-.41,21.74,0C351,94,366.69,110,367.89,126.33a307.23,307.23,0,0,1,0,35.39C366.69,178,351,194.06,334.84,194.79Z"/>
+    <use transform="translate(291.44, 96.62) scale(0.125)" xlink:href="#3a44182b3-372a-491a-b035-395de8c8e7ab"/>
+    <text class="e5ba5077-1f5e-493a-895c-fe082c4cba9e" transform="translate(313.9 182.29)">300</text>
+  </g>
+  <g>
+    <line class="bf7d8a86-7a1e-49ec-a708-215561e48d85" x1="46.41" y1="351.79" x2="46.41" y2="364"/>
+    <line class="bf7d8a86-7a1e-49ec-a708-215561e48d85" x1="351.69" y1="351.53" x2="351.69" y2="363.73"/>
+    <line class="bf7d8a86-7a1e-49ec-a708-215561e48d85" x1="201.93" y1="351.53" x2="201.93" y2="363.73"/>
+    <line class="afe3bd93-4088-441b-ad3c-b011db56c393" x1="46.74" y1="351.53" x2="258.69" y2="351.53"/>
+    <line class="a22b1c43-cdbc-4ece-a726-fddb2f6ad512" x1="258.69" y1="351.53" x2="351.8" y2="351.53"/>
+    <circle class="a83e6861-b57e-4d7d-b372-2bc66de10556" cx="259.13" cy="353.32" r="15.32"/>
+    <text class="b8d820b8-d101-4a21-ac1d-c5e3bcd12465" transform="translate(34.79 380.16)">100</text>
+    <text class="b8d820b8-d101-4a21-ac1d-c5e3bcd12465" transform="translate(188.1 379.72)">200</text>
+    <text class="b8d820b8-d101-4a21-ac1d-c5e3bcd12465" transform="translate(340.33 379.72)">300</text>
+  </g>
+  <text class="b8fb1819-ce64-44f9-863c-a2191ad3bd69" transform="translate(17.85 31.7)">Выберите, какую кружку <tspan x="0" y="26.4">редактировать:</tspan></text>
+</svg>

@@ -1,0 +1,158 @@
+<svg id="a35c2cf5-08e7-493d-a78a-d3c9bb62fe35" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 354 380">
+  <defs>
+    <style>
+      .e250c3df-e7b5-42ac-802f-88353ab2003e {
+        fill: var(--f7-block-strong-bg-color);
+      }
+
+      .e4f527e6-80a0-495e-8f4c-73478387ba3b {
+        font-size: 18px;
+        font-family: Inter;
+        font-weight: 500;
+        fill: var(--f7-block-strong-text-color);
+      }
+
+      .bf7702f6-709e-4f93-836c-ff2b09062193 {
+        letter-spacing: 0em;
+      }
+
+      .ed9e4f6e-aac2-4748-8b56-84eba3c6d547 {
+        letter-spacing: 0em;
+      }
+
+      .b7e65942-502a-4655-bfb2-5a15c996a825 {
+        letter-spacing: 0em;
+      }
+
+      .a0658c50-f827-42c8-8dbe-609d3eab1786 {
+        letter-spacing: -0.01em;
+      }
+
+      .ba14249a-a5e2-433d-ba27-a2ffd7e5039a {
+        letter-spacing: 0em;
+      }
+
+      .a915ff6c-dc56-4bec-bd18-4a65df61c707 {
+        fill: #ab29ff;
+      }
+
+      .acd8c234-2ca8-49e1-bda8-dd5513d849f2 {
+        opacity: 0.55;
+      }
+
+      .f4948db2-f08f-46e1-b442-8726ed6fe12e {
+        letter-spacing: -0.02em;
+      }
+
+      .b8855147-14eb-4b73-9eb5-f5161a5f4b89 {
+        letter-spacing: 0em;
+      }
+
+      .f198735b-5d4f-4847-8524-7ea52146701a {
+        letter-spacing: 0.01em;
+      }
+
+      .a79edf29-cdc0-4c7e-90ec-0f253872a913 {
+        letter-spacing: -0.01em;
+      }
+
+      .a39d651f-890e-403f-9b05-6d09e2d884d6 {
+        fill: var(--f7-popover-bg-color);
+            filter: drop-shadow(0px -7px 22px #00000094) drop-shadow(0px -7px 10px #0000004a);
+      }
+
+      .bc4371a5-77a4-499a-9b34-dd4b84299209 {
+        opacity: 0.1;
+        fill: #212121;
+      }
+
+      .b02c48c1-cd87-4dd7-912a-2610767a3309 {
+        fill: url(#eb8683c7-b8fa-40fb-8463-d3cefda9ee3f);
+      }
+
+      .e84b3d4b-09c6-4a5e-9567-25ec02042bc6 {
+        fill: url(#ea3eb679-cbe1-4156-9642-25b2d650e30e);
+      }
+
+      .b092cd9b-eda7-439d-a38a-d11260a98534 {
+        fill: url(#f63794d9-bac7-4a6b-8a8d-8e10838eaac0);
+      }
+
+      .be481cbf-5166-4fc8-9e19-35d65f438a19, .f1940561-6756-42e8-ba06-f47285d01028, .f5913f94-9dc9-4db4-9553-992b0c92db32 {
+        fill: none;
+      }
+
+      .f1940561-6756-42e8-ba06-f47285d01028 {
+        stroke: #fff;
+        opacity: 0.76;
+      }
+
+      .f1940561-6756-42e8-ba06-f47285d01028, .f5913f94-9dc9-4db4-9553-992b0c92db32 {
+        stroke-miterlimit: 10;
+      }
+
+      .be481cbf-5166-4fc8-9e19-35d65f438a19, .f5913f94-9dc9-4db4-9553-992b0c92db32 {
+        stroke: #4fedad;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .be481cbf-5166-4fc8-9e19-35d65f438a19 {
+        stroke-linejoin: round;
+      }
+    </style>
+    <linearGradient id="eb8683c7-b8fa-40fb-8463-d3cefda9ee3f" data-name="Безымянный градиент 15" x1="23.22" y1="178.9" x2="330.78" y2="178.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ab29ff"/>
+    </linearGradient>
+    <linearGradient id="ea3eb679-cbe1-4156-9642-25b2d650e30e" data-name="Безымянный градиент 97" x1="177.37" y1="276.37" x2="177.37" y2="82.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="0.51" stop-color="#7e7e7e" stop-opacity="0.5"/>
+      <stop offset="0.77" stop-color="#c6c6c6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="f63794d9-bac7-4a6b-8a8d-8e10838eaac0" data-name="Безымянный градиент 262" x1="23.04" y1="295.2" x2="330.96" y2="295.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="0.22" stop-color="#ff0"/>
+      <stop offset="0.31" stop-color="#7aff00"/>
+      <stop offset="0.39" stop-color="lime"/>
+      <stop offset="0.43" stop-color="#00d728"/>
+      <stop offset="0.55" stop-color="#00649b"/>
+      <stop offset="0.63" stop-color="#001ce3"/>
+      <stop offset="0.67" stop-color="blue"/>
+      <stop offset="0.7" stop-color="#2800ec"/>
+      <stop offset="0.74" stop-color="#5d00d4"/>
+      <stop offset="0.78" stop-color="#8600c0"/>
+      <stop offset="0.82" stop-color="#a400b2"/>
+      <stop offset="0.85" stop-color="#b700aa"/>
+      <stop offset="0.87" stop-color="#bd00a7"/>
+      <stop offset="1" stop-color="red"/>
+    </linearGradient>
+  </defs>
+  <path class="e250c3df-e7b5-42ac-802f-88353ab2003e" d="M33,0H321a0,0,0,0,1,0,0V92.82A13.18,13.18,0,0,1,307.82,106H46.18A13.18,13.18,0,0,1,33,92.82V0a0,0,0,0,1,0,0Z"/>
+  <g>
+    <text class="e4f527e6-80a0-495e-8f4c-73478387ba3b" transform="translate(48.06 31.9)">Акцентный цвет</text>
+    <path class="a915ff6c-dc56-4bec-bd18-4a65df61c707" d="M301.57,38.56a71.74,71.74,0,0,1-13.27,0,5.94,5.94,0,0,1-5-5,76.8,76.8,0,0,1,0-13.22,5.94,5.94,0,0,1,5-5,71.74,71.74,0,0,1,13.27,0,5.93,5.93,0,0,1,5,5,74.83,74.83,0,0,1,0,13.22A5.93,5.93,0,0,1,301.57,38.56Z"/>
+  </g>
+  <g class="acd8c234-2ca8-49e1-bda8-dd5513d849f2">
+    <text class="e4f527e6-80a0-495e-8f4c-73478387ba3b" transform="translate(48.13 77.9)">Цветовая тема</text>
+  </g>
+  <g class="acd8c234-2ca8-49e1-bda8-dd5513d849f2">
+    <text class="e4f527e6-80a0-495e-8f4c-73478387ba3b" transform="translate(265.13 77.9)">Авто</text>
+  </g>
+  <rect class="bc4371a5-77a4-499a-9b34-dd4b84299209" x="33" width="288" height="121"/>
+  <g>
+    <rect class="a39d651f-890e-403f-9b05-6d09e2d884d6" x="17.5" y="77" width="319" height="247" rx="12.32"/>
+    <g>
+      <rect class="b02c48c1-cd87-4dd7-912a-2610767a3309" x="23.22" y="82.54" width="307.55" height="192.73" rx="5.86"/>
+      <rect class="e84b3d4b-09c6-4a5e-9567-25ec02042bc6" x="22.86" y="82.72" width="309.03" height="193.65" rx="5.79"/>
+    </g>
+    <rect class="b092cd9b-eda7-439d-a38a-d11260a98534" x="23.04" y="291.88" width="307.92" height="6.65" rx="2.5"/>
+    <circle class="f1940561-6756-42e8-ba06-f47285d01028" cx="247.89" cy="127.95" r="6.65"/>
+    <circle class="a915ff6c-dc56-4bec-bd18-4a65df61c707" cx="275.02" cy="295.76" r="7.75"/>
+  </g>
+  <g>
+    <path class="be481cbf-5166-4fc8-9e19-35d65f438a19" d="M314.5,30.5s18,2,23,13c13,29-5.27,48.9-20.5,54.5a26,26,0,0,0,4.5-10.5"/>
+    <path class="f5913f94-9dc9-4db4-9553-992b0c92db32" d="M316.5,98.5s8-1,14,1"/>
+  </g>
+</svg>

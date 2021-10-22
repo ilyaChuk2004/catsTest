@@ -1,0 +1,39 @@
+<svg id="a485823a-7a5c-41e9-802d-ba85d1f2c9e3" data-name="Слой 1 (копия)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448.91 448.91">
+  <defs>
+    <style>
+
+	
+      .a51e8375-57ab-43a3-b834-98b2487b1eda { 
+		  <!-- 9 -->
+
+		fill: var(--f7-theme-color);
+    filter:brightness(120%) saturate(0.5);
+	font-weight:bold;
+      }
+
+      .f6d12d3d-ad22-463d-9d28-8b4003b5c4ed {
+
+		fill: rgba(var(--f7-theme-color-rgb), 0.4);
+		    font-weight: bold;
+    filter:saturate(0.7)
+      }
+
+      .a4324163-67e4-40fb-acde-72fccd23b8b3 {
+        fill: rgba(var(--f7-theme-color-rgb), 0.15);
+    filter:saturate(0.7)
+      }
+
+      .afadfb02-1ccd-4d04-b918-24992100d6fa {
+        fill: rgba(var(--f7-theme-color-rgb), 0.7);
+		
+		filter:saturate(0.7)
+      }
+    </style>
+  </defs>
+  <g>
+  <text class="a51e8375-57ab-43a3-b834-98b2487b1eda" transform="matrix(1 0 0 1 174.785 250.3914)" style="font-family:'Inter'; font-size:154.1582px;">9</text>
+<text class="f6d12d3d-ad22-463d-9d28-8b4003b5c4ed" transform="matrix(1 0 0 1 111.4476 422.5931)" style=" font-family:'Inter'; font-size:53.7281px;">уровень</text>
+  </g>
+  <path class="a4324163-67e4-40fb-acde-72fccd23b8b3" d="M351.56,238a134.5,134.5,0,0,1-20.13,36.82c-45.4,59-130.33,70-189.31,24.63s-70-130.33-24.63-189.31a134.82,134.82,0,0,1,107-52.6v-29a163.8,163.8,0,0,0-130,63.9c-55.16,71.66-41.73,174.82,29.92,230s174.82,41.73,230-29.92a163.43,163.43,0,0,0,24.45-44.74Z"/>
+  <path class="afadfb02-1ccd-4d04-b918-24992100d6fa" d="M324.49,62.51a163.21,163.21,0,0,0-100-34v29A135.11,135.11,0,0,1,351.56,238l27.3,9.77A164.42,164.42,0,0,0,324.49,62.51Z"/>
+</svg>
