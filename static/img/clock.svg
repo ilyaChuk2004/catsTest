@@ -1,0 +1,16 @@
+<svg id="f378cda0-6a27-4d31-abad-ca7af12b5d74" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .b4fa9866-5592-4edd-9c20-0dfbfb107d72 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 21px;
+      }
+    </style>
+  </defs>
+  <path d="M200,23A177,177,0,0,1,325.16,325.16,177,177,0,0,1,74.84,74.84,175.84,175.84,0,0,1,200,23m0-21C90.65,2,2,90.65,2,200S90.65,398,200,398s198-88.65,198-198S309.35,2,200,2Z"/>
+  <path class="b4fa9866-5592-4edd-9c20-0dfbfb107d72" d="M318.85,115.73,200.5,199.5Z"/>
+  <path class="b4fa9866-5592-4edd-9c20-0dfbfb107d72" d="M195.4,296.37l4.89-96.73Z"/>
+</svg>
